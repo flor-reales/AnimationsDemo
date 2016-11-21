@@ -1,0 +1,7 @@
+#Mon Nov 21 11:48:05 ART 2016
+base.0=C\:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76e6dbac234c3802f299efc01e00f7f1d1087898
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df9c312f97eb2e0f02238ba707d8459f69070fdc\\classes.dex
+base.1=C\:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df9c312f97eb2e0f02238ba707d8459f69070fdc
+file.0=C\:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76e6dbac234c3802f299efc01e00f7f1d1087898\\classes.dex

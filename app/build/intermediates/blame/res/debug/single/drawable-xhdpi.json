@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_remove.png",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_photo.png",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_photo.png"
+    }
+]

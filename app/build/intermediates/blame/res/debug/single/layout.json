@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_slide.xml",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_screen_slide_page.xml",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\layout\\fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excerpt_content.xml",
+        "source": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\layout\\excerpt_content.xml"
+    }
+]

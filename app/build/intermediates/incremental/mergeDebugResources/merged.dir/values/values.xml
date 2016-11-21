@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <item name="fab" type="id"/>
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+    <string name="action_dislike">Dislike</string>
+    <string name="action_like">Like</string>
+    <string name="app_name">Swipe</string>
+    <string name="desc">Image 1 Android rojo </string>
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+    <string name="message_zoom_touch_expand">Touch a photo to expand it.</string>
+    <string name="title_screen_slide">Zoom Image</string>
+    <string name="title_template_step">Step <ns1:g id="step_number">%1$d</ns1:g>: Lorem
+        Ipsum</string>
+    <style name="DarkActionBar" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="DarkTheme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/DarkActionBar</item>
+    </style>
+</resources>

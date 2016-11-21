@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\Documents\AnimationsDemo\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="C:\Users\Claudia\Documents\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_e182ebaced40e2ecd92297664fd8c63e899a1cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\Documents\AnimationsDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1a031d3cfcbe6c3365c06223fbb05e16e0c0f98">
+        <dex dex="C:\Users\Claudia\Documents\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df9c312f97eb2e0f02238ba707d8459f69070fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\Documents\AnimationsDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="545878c19790307daf89df0e2ec79e5dc8d1589d">
+        <dex dex="C:\Users\Claudia\Documents\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_76e6dbac234c3802f299efc01e00f7f1d1087898\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,260 @@
+[
+    {
+        "outputFile": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 32,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 33,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 53,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\integers.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 53,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 53,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\integers.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 53,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 50,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 50,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 44,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 44,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 42,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 42,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 54,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 54,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 90,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 90,
+                        "endOffset": 1137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 81,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endColumn": 81,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 57,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 57,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endLine": 13,
+                    "endColumn": 22,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endLine": 22,
+                        "endColumn": 22,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "C:\\Users\\Claudia\\Documents\\AnimationsDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 757
+                    }
+                }
+            }
+        ]
+    }
+]
